@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive of My Own</title>
+    <link>https://chenhua-l33.github.io/</link>
+    <description>Recent content on Archive of My Own</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Nov 2025 16:47:47 +0100</lastBuildDate>
+    <atom:link href="https://chenhua-l33.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://chenhua-l33.github.io/contact/</link>
+      <pubDate>Wed, 26 Nov 2025 16:47:47 +0100</pubDate>
+      <guid>https://chenhua-l33.github.io/contact/</guid>
+      <description>&lt;p&gt;You can reach me through:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:amelialee0302@gmail.com&#34;&gt;amelialee0302@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/chenhuali&#34;&gt;linkedin.com/in/chenhuali&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product&#34;&gt;Signal&lt;/a&gt;:&lt;/strong&gt; &lt;a href=&#34;https://signal.me/#eu/TJ1LRnQ8fm31yCBRc5hACL3BnHV-CO8n7hQjcVyLuYH0QMuk7jdNAZ3uv4j8S6Pq&#34;&gt;@ChLames.25&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://chenhua-l33.github.io/about/</link>
+      <pubDate>Wed, 26 Nov 2025 16:47:40 +0100</pubDate>
+      <guid>https://chenhua-l33.github.io/about/</guid>
+      <description>&lt;h3 id=&#34;myself&#34;&gt;Myself&lt;/h3&gt;&#xA;&lt;p&gt;I am Chenhua Li. I&amp;rsquo;ve studied some &lt;a href=&#34;https://acs.digitellinc.com/p/s/activation-of-co-oxidation-on-doped-cu110-21-o-surfaces-a-density-functional-theory-study-514329&#34;&gt;Materials Science&lt;/a&gt; in the past. I then drastically (let&amp;rsquo;s add some dramatic effect here :p) changed to Computer Science. My interests in the field include development, cybersecurity and the things that come along with it which are bit niche (i.e. quantum computing).&lt;/p&gt;&#xA;&lt;h3 id=&#34;intention-of-the-blog&#34;&gt;Intention of the blog&lt;/h3&gt;&#xA;&lt;p&gt;The other day I was reading about an article talking about the digitale gekte (digital craziness in Dutch) of this era.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recent To-dos</title>
+      <link>https://chenhua-l33.github.io/posts/recent-to-dos/</link>
+      <pubDate>Wed, 26 Nov 2025 16:07:59 +0100</pubDate>
+      <guid>https://chenhua-l33.github.io/posts/recent-to-dos/</guid>
+      <description>&lt;p&gt;&amp;ldquo;真正的写作只有一种来源，生命中的某个部分太疼了，疼到你必须喋喋不休的回应它。&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

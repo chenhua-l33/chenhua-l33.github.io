@@ -1,0 +1,56 @@
+/* Place custom css here. */
+@reference './app.css';
+/* Custom CSS to match Hugo Paper demo font sizes */
+
+/* Increase base font size */
+body {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+/* Profile name */
+.profile .name {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+/* Profile bio */
+.profile .bio {
+  font-size: 16px;
+}
+
+/* Post titles on homepage */
+.post-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* Post content */
+.post-content {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+/* Post content headings */
+.post-content h1 {
+  font-size: 32px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.post-content h2 {
+  font-size: 26px;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+}
+
+.post-content h3 {
+  font-size: 22px;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+
+/* Footer text */
+footer {
+  font-size: 14px;
+}
